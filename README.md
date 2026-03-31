@@ -49,13 +49,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikrathod30&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikrathod30&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ⭐️ *Feel free to explore my repositories and reach out — I'm open to opportunities!*
